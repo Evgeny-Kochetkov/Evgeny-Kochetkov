@@ -19,7 +19,3 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram)](https://t.me/Evgeny_Kochetkov)
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=Instagram)](https://www.instagram.com/evgeny__kochetkov_/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/evgeny--kochetkov/)
-
-## Certificates 📃
-
-[![WEBDEV](img/UC-95ff3e8c-971f-4db2-a851-2559509aec05.jpg)](https://www.udemy.com/certificate/UC-95ff3e8c-971f-4db2-a851-2559509aec05/)
