@@ -1,7 +1,3 @@
-# Hey there 👋 
-
-### Nice to meet you! 😊 In the past I'm  a doctor but now I'm learning the basics of programming. Don't even ask me why! 😅 I live in Gomel, Belarus with my beloved wife 💑 and three cats. Three cats, Carl! 😹 Now I am only at the beginning of my journey, I will be glad of any opportunities to gain experience in the direction I am studying.
-
 ## Languages and Tools 🛠️
 
 ![HTML5](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=HTML5&logoColor=ffffff)
